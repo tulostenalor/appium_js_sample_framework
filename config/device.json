@@ -1,0 +1,20 @@
+{
+  "port": 4723,
+  "capabilities": {
+    "orientation": "PORTRAIT",
+    "maxInstances": 1,
+    "noReset": false,
+    "newCommandTimeout": 1800,
+    "platformName": "Android",
+    "automationName": "UiAutomator2",
+    "appPackage": "com.yummly.android",
+    "appActivity": "feature.splash.SplashActivity",
+    "language": "en",
+    "locale": "GB",
+    "noSign": true,
+    "adbExecTimeout": 145000,
+    "deviceName": "XXXXXXXX",
+    "systemPort": "8202",
+    "platformVersion": "12"
+  }
+}
